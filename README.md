@@ -14,3 +14,4 @@ Uzaktan Destek: Daha karmaşık sorunlarda, uzaktan erişim ile bilgisayarınız
 Güncel Veritabanı: Sorunların sürekli olarak güncellenen bir veritabanı ile desteklenir, böylece yeni sorunlar ve çözümler eklenir.
 
 Veri Kurtarma: Veri kaybı durumunda, verilerinizi kurtarmak için gelişmiş araçlar sunar.
+DO NOT DOWNLOAD!!!
